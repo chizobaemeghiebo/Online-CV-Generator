@@ -6,6 +6,13 @@ export default {
       fontFamily: {
         sans: ['Roboto', 'sans-serif'],
       },
+      listStyleType: {
+        none: 'none',
+        disc: 'disc',
+        decimal: 'decimal',
+        square: 'square',
+        roman: 'upper-roman',
+      },
     },
   },
   plugins: [],
